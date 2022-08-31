@@ -1,6 +1,6 @@
 ### Hi there, 👋 welcome to my GitHub!
 
-🚀 I'm a physicist and management consultant turned builder. I'm currently building some fun front-end and Web 3 projects.
+🚀 I'm a physicist and management consultant turned builder. I'm currently working on some fun front-end and Web 3 projects.
 
 Here are my socials, I am most active on Twitter.
 
