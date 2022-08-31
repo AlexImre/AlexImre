@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub!
+
+I'm a physicist and management consultant turned builder 🚀 I'm currently building some fun front-end and Web 3 projects, please take a look around!
+
+Here are my socials, I am most active on Twitter.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Alexandre_Imre)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexandre-imre-87b1b071/)
