@@ -1,6 +1,6 @@
 ### Hi there, 👋 welcome to my GitHub!
 
-🚀 I'm a physicist and management consultant turned builder.
+🚀 I'm a physicist and management consultant turned software developer.
 
 My go-to tech stack:
 
