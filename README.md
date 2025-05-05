@@ -1,4 +1,6 @@
 **🚀 Physicist and management consultant turned software developer.**
+
+[Learn more about me](https://www.aleximre.com/)
 <!--
 **AlexImre/AlexImre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
